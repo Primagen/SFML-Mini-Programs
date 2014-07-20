@@ -1,6 +1,8 @@
 
 
 /**
+ * Last updated: 20 July 2014
+ *
  * This is just a little program, using SFML,
  * to show a method to drag objects using the mouse.
  * Feel free to apply any of it to your project
